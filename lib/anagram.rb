@@ -5,6 +5,6 @@ class Anagram
     @word = word
   end
   def match(string)
-    
+    string.each do |word|
   end
 end
