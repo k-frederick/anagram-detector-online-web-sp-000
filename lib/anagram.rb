@@ -5,6 +5,6 @@ class Anagram
     @word = word
   end
   def match(string)
-    string = ""
+    string = " "
   end
 end
