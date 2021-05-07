@@ -6,6 +6,6 @@ class Anagram
   end
   def match(string)
     string.each do |w|
-      w 
+      w.split.sort == 
   end
 end
